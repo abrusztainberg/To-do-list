@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    float: center;
+    background: whitesmoke;
+    color: rgb(87, 74, 74);
+    height: 100%;
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px;;
+}
+
+button{
+    background:rgb(235, 235, 235);
+    float: center;
+}
+
+.modal{
+background: rgba(42, 50, 56, 0.85) 
+}
+
+.alerta{
+    font: size 10px;;
+}
